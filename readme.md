@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/yellowflash628)
+
 # Avax Gods - Online Multiplayer Web3 NFT Card Game
 ![Gameplay](https://i.ibb.co/4P2C08x/image.png)
 
